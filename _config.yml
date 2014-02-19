@@ -1,0 +1,4 @@
+name: Jekyll
+markdown: redcarpet
+pygments: true
+permalink: /:title/
