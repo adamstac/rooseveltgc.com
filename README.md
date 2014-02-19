@@ -1,3 +1,3 @@
-# Jekyll Bootstrap
+# Roosevelt General Contracting
 
-A very simple starting point for Jekyll.
+Roosevelt General Contracting homepage built using Jekyll - [rooseveltgc.com](http://rooseveltgc.com/).
